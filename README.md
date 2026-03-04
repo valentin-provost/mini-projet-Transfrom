@@ -147,18 +147,6 @@ Les lignes invalides ont été supprimées, conservant uniquement les données f
 - Il est possible de basculer entre les deux versions facilement
 - Le code est commenté pour faciliter la compréhension
 
-## Contribution
-
-Le projet est hébergé sur GitHub. Pour contribuer :
-- Récupérer les modifications : `git pull`
-- Créer une branche : `git checkout -b nom-branche`
-- Pousser les changements : `git push`
-
----
-
-**Auteurs** : Bastien Rabane & équipe  
-**Date** : Mars 2026
-
 ---
 
 **Auteurs** : Valentin PROVOST & Bastien RABANE
